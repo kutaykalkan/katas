@@ -1,0 +1,14 @@
+C:\Projects\VSProjects\DataMunging\DataMunging\bin\Debug\DataMunging.exe.config
+C:\Projects\VSProjects\DataMunging\DataMunging\bin\Debug\DataMunging.exe
+C:\Projects\VSProjects\DataMunging\DataMunging\bin\Debug\DataMunging.pdb
+C:\Projects\VSProjects\DataMunging\DataMunging\obj\Debug\DataMunging.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\DataMunging\DataMunging\obj\Debug\DataMunging.exe
+C:\Projects\VSProjects\DataMunging\DataMunging\obj\Debug\DataMunging.pdb
+C:\Projects\VSProjects\Katas\DataMunging\DataMunging\bin\Debug\DataMunging.exe.config
+C:\Projects\VSProjects\Katas\DataMunging\DataMunging\obj\Debug\DataMunging.exe
+C:\Projects\VSProjects\Katas\DataMunging\DataMunging\obj\Debug\DataMunging.pdb
+C:\Users\kutay\OneDrive\Projects\VSProjects\Katas\DataMunging\DataMunging\bin\Debug\DataMunging.exe.config
+C:\Users\kutay\OneDrive\Projects\VSProjects\Katas\DataMunging\DataMunging\obj\Debug\DataMunging.exe
+C:\Users\kutay\OneDrive\Projects\VSProjects\Katas\DataMunging\DataMunging\obj\Debug\DataMunging.pdb
+C:\Users\kutay\OneDrive\Projects\VSProjects\Katas\DataMunging\DataMunging\bin\Debug\DataMunging.exe
+C:\Users\kutay\OneDrive\Projects\VSProjects\Katas\DataMunging\DataMunging\bin\Debug\DataMunging.pdb

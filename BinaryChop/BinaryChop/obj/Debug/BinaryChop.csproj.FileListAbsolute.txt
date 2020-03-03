@@ -1,0 +1,6 @@
+C:\Projects\VSProjects\BinaryChop\BinaryChop\bin\Debug\BinaryChop.exe.config
+C:\Projects\VSProjects\BinaryChop\BinaryChop\bin\Debug\BinaryChop.exe
+C:\Projects\VSProjects\BinaryChop\BinaryChop\bin\Debug\BinaryChop.pdb
+C:\Projects\VSProjects\BinaryChop\BinaryChop\obj\Debug\BinaryChop.csprojResolveAssemblyReference.cache
+C:\Projects\VSProjects\BinaryChop\BinaryChop\obj\Debug\BinaryChop.exe
+C:\Projects\VSProjects\BinaryChop\BinaryChop\obj\Debug\BinaryChop.pdb
