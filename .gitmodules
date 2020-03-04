@@ -1,0 +1,3 @@
+[submodule "BowlingKata"]
+	path = BowlingKata
+	url = https://github.com/kutaykalkan/BowlingKata.git
